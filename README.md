@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Marina :D
 
 - 🎓 Estudante de análise e desenvolvimento de sistemas.
-- 🎯 Buscando me especializar em desenvolvimento Fullstack.
+- 🎯 Buscando me especializar em desenvolvimento Fullstack, mas atualmente trabalhando como Frontend.
 - 🎸 Sou musicista há 14 anos.
 - 🎮 No meu tempo livre gosto de jogar, sair com amigos ou estudar alguma coisa.
 
