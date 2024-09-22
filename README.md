@@ -15,11 +15,11 @@
 
 ### Estudando no momento
 <div>
-  <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
   <img align="center" alt="PrismaORM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"/>
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
 </div>
 
 ##
