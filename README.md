@@ -25,6 +25,7 @@
 ##
 
 <div>
-  <a href = "mailto:m.ebbecke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:m.ebbecke@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=ffffff" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marina-ebbecke" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.marinaebbecke.dev.br" target="_blank"><img src="https://img.shields.io/badge/portfolio-3ea322?style=for-the-badge" target="_blank"></a> 
 </div>
