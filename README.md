@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de análise e desenvolvimento de sistemas.
 - 🎯 Buscando evoluir minhas habilidades como fullstack.
-- 🎸 Sou musicista há 14 anos.
+- 🎸 Sou musicista há 15 anos.
 - 🎮 No meu tempo livre gosto de jogar, sair com amigos ou estudar alguma coisa.
 
 ### Principais tecnologias
@@ -13,7 +13,7 @@
     <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
 </div>
 
-### Estudando no momento
+### Estudando
 <div>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
@@ -22,7 +22,7 @@
   <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
 </div>
 
-##
+## Meus links 🔗
 
 <div>
   <a href = "mailto:m.ebbecke@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=ffffff" target="_blank"></a>
