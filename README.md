@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Marina :D
 
-- 🎓 Estudante de análise e desenvolvimento de sistemas.
+- 🌐 Desenvolvedora web
 - 🎯 Buscando evoluir minhas habilidades como fullstack.
 - 🎸 Sou musicista há 15 anos.
 - 🎮 No meu tempo livre gosto de jogar, sair com amigos ou estudar alguma coisa.
